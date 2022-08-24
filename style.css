@@ -1,0 +1,104 @@
+
+body{
+	margin: 0px;
+	padding: 0px;
+	background: linear-gradient(to right, white, blueviolet);
+
+}
+
+ 
+.logo {
+	position: absolute;
+	left: 15%;
+	right: 0;
+	top:7%;
+	bottom: 0;
+}
+
+h1 {
+	font-family: Inter, sans-serif;
+	color: #191970;
+	width: 120px;
+	height: 48px;
+	position: absolute;
+	left: 18%;
+	top:6%;
+}
+
+textarea{
+	resize: none;
+	border: 2px;
+	border-radius: 5px;
+	box-shadow:0 0 0.5em blue;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30px;
+	color: #0A3871;
+}
+
+
+.entrada{
+
+	position: fixed;
+	width: 30%;
+	height: 350px;
+	left: 18%;
+	top: 18%;
+
+}
+.resultado {
+	position: fixed;
+	width: 30%;
+	height: 350px;
+	left: 58%;
+	top: 18%;	
+}
+
+p{
+	
+	width: 220px;
+	height: 15px;
+	font-family: 'Inter',sans-serif;
+	font-size: 10px;
+
+	color: #191970;
+	padding-top: 35%;
+	padding-left: 18%;
+}
+
+button{
+	
+	font-size: 15px;
+	color:#191970 ;
+	margin-top: 10px;
+	bottom: 10px;
+
+	width: 10%;
+	height: 50px;
+	border-radius: 8px;
+	border-color: blueviolet;
+	box-shadow: 0 0 0.3em blue;
+
+	
+}
+.botao1{
+	margin-left: 19%; 
+
+	
+}
+.botao2{
+	margin-left:5%;	
+
+}
+.copiar{
+  margin-left: 20%;
+}
+
+footer{
+	position: fixed;
+	top: 82%;
+	left: 40%;
+	margin-top: 2.5px;
+
+}
